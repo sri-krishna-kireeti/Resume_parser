@@ -1,0 +1,7 @@
+azure-ai-documentintelligence
+azure-identity
+python-dotenv
+streamlit
+PyPDF2
+spacy
+google-generativeai
